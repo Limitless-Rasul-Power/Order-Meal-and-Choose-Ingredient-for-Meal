@@ -1,0 +1,10 @@
+#pragma once
+#include "Cooking_Device.h"
+#include "Oven.h"
+#include "Pot.h"
+#include "Brazier.h"
+#include "Tomatoe.h"
+#include "Cheese.h"
+#include "Spice.h"
+#include "Meat.h"
+#include "Mushroom.h"
