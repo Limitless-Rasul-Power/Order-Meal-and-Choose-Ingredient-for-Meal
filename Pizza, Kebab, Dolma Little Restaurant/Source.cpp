@@ -27,8 +27,6 @@ int main()
 	const unsigned short ingredient_count = 5;
 	RecipeItem** all = new RecipeItem * [ingredient_count]{ recipe_item_1, recipe_item_2, recipe_item_3, recipe_item_4, recipe_item_5 };
 	
-	//Salam Muellim 3-nu ayri-ayri kommente almisam ki, hamisinda eyni ingredientlerden recipeItem-den istifade etmishem
-	//artiq kod yazmamaq ucun, 3-nu biryerde acsaniz eyni yeri silmek isteyecek ona gore exception atacaq;
 
 	/*Pizza* pizza = new Pizza(all, ingredient_count, "Margaritta", "Neapolitau");
 	CookingDevice* cook_pizza = new Oven(pizza);
